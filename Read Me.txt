@@ -1,0 +1,10 @@
+Project Name: Bug Tracker System
+
+Submitted by: RK 
+
+This project is free to download and use. It is only for Academic reference purpose not for any commercial use.
+
+Note: The author has submitted it as a .zip / .rar / .7z file. you will need to extract this compressed file via Winzip / 7Z.
+
+For your own safety, please: Re-scan downloaded files using your personal anti virus before using it. Dont run compiled files (.exe's, .ocx's, .dll's etc.)..only run source code.
+
